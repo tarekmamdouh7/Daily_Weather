@@ -17,6 +17,7 @@ This project demonstrates the use of a Long Short-Term Memory (LSTM) based Recur
 ## Project Overview
 Accurate weather forecasting is a classic time-series problem with significant real-world applications. This project tackles this challenge using a deep learning approach. An LSTM network, a special kind of RNN, is employed to capture temporal dependencies in historical weather data and make accurate future predictions. The model is built from scratch using TensorFlow and Keras.
 
+
 ## Dataset
 The project utilizes the "Daily Delhi Climate" dataset (`DailyDelhiClimateTrain.csv`), which contains four primary weather features recorded daily from 2013 to 2017:
 - `meantemp`: Mean temperature for the day
